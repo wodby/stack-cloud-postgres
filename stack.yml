@@ -1,0 +1,13 @@
+name: cloud-postgres
+title: Cloud PostgreSQL
+
+services:
+- name: cloud-postgres
+  title: Cloud PostgreSQL
+  service: cloud-postgres
+  options: 
+  - version: 13
+  - version: 12
+  - version: 11
+  - version: 10
+  - version: 9.6
