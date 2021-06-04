@@ -1,4 +1,5 @@
 name: cloud-postgres
+icon: postgres
 title: Cloud PostgreSQL
 
 services:
