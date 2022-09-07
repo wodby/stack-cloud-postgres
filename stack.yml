@@ -1,8 +1,8 @@
-name: postgres-cloud
+name: cloud-postgres
 icon: postgres
 title: Cloud PostgreSQL
 
 services:
 - name: postgres
   title: Cloud PostgreSQL
-  service: postgres-cloud
+  service: cloud-postgres
