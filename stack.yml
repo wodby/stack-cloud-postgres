@@ -1,5 +1,6 @@
 name: cloud-postgres
 icon: postgres
+docs: https://wodby.com/docs/2.0/stacks/catalog/cloud-postgres/
 title: Cloud PostgreSQL
 
 services:
